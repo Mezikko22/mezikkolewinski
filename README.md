@@ -3,4 +3,3 @@ Page 1: An about me page with details including your personal details, reasons f
 Page 2: The form you filled out while you registered for AltSchool (a copy can be found at https://portal.altschoolafrica.com/auth/create-account)
 
 
-netlify link is https://dashing-cocada-fc5b34.netlify.app
